@@ -1,0 +1,18 @@
+Python:
+- Pandas (Scientific computing libraries -> Data structures and tools for effective data cleaning, manipulation and analysis)
+- Numpy (Scientific computing libraries -> Apply mathematical functions to arrays)
+- Matplotlib (Data visualization libraries -> Highly customizable plots & graphs)
+- Seaborn (Data visualization libraries -> Heat maps, time series, violin plots, etc.)
+- Scikit-learn (Machine learning -> regression, classification, clustering & others)
+- Keras (Deep learning -> neural networks)
+- TensorFlow (Deep learning -> Large scale production of deep learning models)
+- PyTorch (Deep learning -> Used for experimentation, making it simple to test ideas)
+
+Scala:
+- Vegas (Statistical data visualization)
+- BigDL (Deep learning)
+
+R:
+- Has built in functionality for machine learning and data visualization
+- ggplot2 (Data visualization)
+- You can interface with Keras and TensorFlow
